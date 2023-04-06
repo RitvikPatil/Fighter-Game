@@ -7,8 +7,6 @@
   <h3 align="center">Fighter Game</h3>
 
   <p align="center">
-    A web development project to clear Javascript and html basics
-    <br />
     <a href="https://github.com/RitvikPatil/Fighter-Game"><strong>Explore the game »</strong></a>
     <br />
     <br />
@@ -26,7 +24,11 @@
 ## About The Project
 
 
+Fighter Game is a web-based game developed in HTML and JavaScript. The game has two players, each with their own attack and heal abilities. The objective of the game is to reduce the other player's health to zero. The first player whose health goes below zero loses the game.
 
+The game is easy to play and built using basic HTML and JavaScript code, making it accessible to anyone with basic web development skills.
+
+The project is a great way for developers to gain experience in building interactive web applications.
 
 
 
