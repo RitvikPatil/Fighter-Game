@@ -9,7 +9,7 @@
   <p align="center">
     A web development project to clear Javascript and html basics
     <br />
-    <a href="https://github.com/RitvikPatil/Fighter-Game"><strong>Explore the project »</strong></a>
+    <a href="https://github.com/RitvikPatil/Fighter-Game"><strong>Explore the game »</strong></a>
     <br />
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
@@ -20,27 +20,6 @@
 
 
 
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#contact">Contact</a></li>
-  </ol>
-</details>
-
 
 
 <!-- ABOUT THE PROJECT -->
@@ -48,9 +27,6 @@
 
 
 
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -81,7 +57,6 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin Fighter-Game/suggestion`)
 5. Open a Pull Request
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- CONTACT -->
@@ -91,4 +66,3 @@ Ritvik Patil - pritvik0@gmail.com
 
 Project Link: [https://github.com/RitvikPatil/Fighter-Game](https://github.com/RitvikPatil/Fighter-Game)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
